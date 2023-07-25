@@ -9,7 +9,7 @@ def getCountry():
     Purpose: 
     """
     if country_origin == "A":
-        return "USA"
+        return "United States Of America"
     elif country_origin == "B":
         return "Europe"
     elif country_origin == "C":
