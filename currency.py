@@ -11,7 +11,7 @@ def getCountry():
     if country_origin == "A":
         return "United States Of America"
     elif country_origin == "B":
-        return "Europe"
+        return "Europe"   
     elif country_origin == "C":
         return "Britain"
     elif country_origin == "D":
